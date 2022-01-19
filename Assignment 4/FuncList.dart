@@ -24,7 +24,6 @@ void main() {
   input = stdin.readLineSync()!;
 
   } // End of While Loop
-
 } // End of main()
 
 String checkFavorite(String searchFor){
@@ -33,9 +32,8 @@ String checkFavorite(String searchFor){
 
   for (var item in items) {
     
-    // Making it Case Insensitive
+    // Comparing and Making it Case Insensitive
     if(item.toLowerCase() == searchFor.toLowerCase()){
-
       return item;
     }
   } // End of for loop
