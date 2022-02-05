@@ -43,8 +43,7 @@ void main() {
   showList(submissionDates);
   print("\n------------ Add Completed To taskName on orignal data List ---------------\n");
   showList(data);
-
-  
+ 
 } // End of main()
 
 void addCompletedTaskList(List<Map<String,dynamic>> dataList, List<Map<String,dynamic>> completedTasksList) {
