@@ -1,6 +1,18 @@
 # Flutter-Course-Assignment
 # Dart Language Assignment
 
+### Assignment 4 | Favorite Items
+
+Create a function that can contain the list of your favorite items inside it like\
+checkFavorite(String searchFor){\
+List<String> items = ["iPhone 13","Dart","Flutter"];\
+}\
+Then call it in main function and try to pass it an item like\
+checkFavorite("Smart Watch");\
+So this function should check if the "Smart Watch" exists in your list?\
+if true then print "Smart Watch found in the list"\
+if false then print "Smart Watch not found in the list"\
+
 ### Assignment 6 | Contact Book
 Create a contact book.\
 When we run the code, it should contain a main menu like this\
