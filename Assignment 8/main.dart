@@ -89,4 +89,6 @@ void order(List<Product> cart, List<int> orderQuantity) {
     num++;
   }
   stdout.write("\nTotal Amount: ${totalAmount} Rs.\nThank you for your order");
+  cart = [];
+
 } // End of order()
