@@ -1,5 +1,5 @@
 ## Assignment 8 | E-Commerce App
-**THERE ARE THREE PARTS OF THIS E-COMMERCE APP**\
+**THERE ARE THREE PARTS OF THIS E-COMMERCE APP**
 1. Product
 2. Cart
 3. Order
